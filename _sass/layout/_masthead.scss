@@ -64,4 +64,11 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--active {
+    a {
+      color: var(--global-masthead-link-color-hover) !important;
+      font-weight: bold;
+    }
+  }
 }
