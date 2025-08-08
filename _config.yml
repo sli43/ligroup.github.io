@@ -5,11 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
+plugins:
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "zh"]
+default_lang: "en"
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liquantum group"
+title                    : "李绍直, 东北大学"
+#subtitle                 : "xxxx"
 title_separator          : "-"
 name                     : &name "Shaozhi Li"
 description              : &description "personal description"
