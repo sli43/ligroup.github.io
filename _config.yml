@@ -8,6 +8,9 @@
 plugins:
   - jekyll-multiple-languages-plugin
 
+plugins:
+  - jekyll-sitemap
+
 languages: ["en", "zh"]
 default_lang: "en"
 
