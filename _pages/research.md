@@ -4,7 +4,7 @@ permalink: /research/
 ---
 ## **Project 1: Neural Network Quantum Monte Carlo**
 <div style="margin-left: 20px; text-align: center;">
-  <img src="../images/NNQMC.png" alt="Neural Network Quantum Monte Carlo" width="500"/>  
+  <img src="../images/NNQMC.png" width="500"/>  
   <p style="font-style: italic; margin-top: 10px;">Neural Network Quantum Monte Carlo</p>
 </div>
 
