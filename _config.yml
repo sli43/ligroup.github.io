@@ -8,6 +8,7 @@
 plugins:
   - jekyll-multiple-languages-plugin
 
+
 languages: ["en", "zh"]
 default_lang: "en"
 
