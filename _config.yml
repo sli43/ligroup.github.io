@@ -8,11 +8,6 @@
 plugins:
   - jekyll-multiple-languages-plugin
 
-<<<<<<< HEAD
-=======
-plugins:
-  - jekyll-sitemap
->>>>>>> 33d8f052d23a691a0884d8e81863b8e2805c5966
 
 languages: ["en", "zh"]
 default_lang: "en"
