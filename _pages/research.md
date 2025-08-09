@@ -26,3 +26,13 @@ In this work, we develop a Determinant Quantum Monte Carlo (DQMC) method capable
 Shaozhi Li and Steven Johnston, npj quantum materials 5 40 (2020) [PDF](https://www.nature.com/articles/s41535-020-0243-3).  
 Shaozhi Li and Steven Johnston, Phys. Rev. B 108 L201113 (2023) [PDF](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.L201113)  
     
+## **Project 3: Topological Superconductor**
+<div style="margin-left: 20px; text-align: center;">
+  <img src="../images/forward.png" width="500"/>  
+  <p style="font-style: italic; margin-top: 10px;">Interfacial electron-phonon interaction induced topological superconductivity.</p>
+</div>
+
+In this work, we propose a new Rashba-free mechanism to realize topological superconductivity with electron-phonon (e-ph) interaction. In the presence of a magnetic field, e-ph interaction with small momentum transfer is found to favor spin-triplet Cooper pairing. This process facilitates the formation of chiral topological superconductivity even with Rashba spin-orbital coupling is absent. As a proof of concept, we propose an experimentally feasible heterostructure to systematically study the entangled relationship among forward-phonon scatterings, Rashba spin-orbital couplings, pairing symmetries, and superconducting topology. Our theory sheds light on the important role of e-ph coupled materials in the pursuit of non-Abelian Majorana quasiparticles.
+
+**Papers**:  
+Shaozhi Li, Lun-Hui Hu, Rui-Xing Zhang, Satoshi Okamoto, Communications Physics 6, 235 (2023). [PDF](https://www.nature.com/articles/s42005-023-01311-z)
